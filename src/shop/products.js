@@ -39,7 +39,7 @@ export default [
     name: 'Asus Extra',
     description: 'Aenean id vulputate ex. Aenean feugiat sem convallis est sodales porttitor. Donec dapibus finibus neque, id rutrum urna. Aenean vel posuere lorem. Proin eget dui molestie, scelerisque libero sit amet, cursus libero. Integer ut risus tincidunt, rutrum purus et, finibus lorem. Vivamus maximus ut sapien eu egestas. ',
     price: 100.00,
-    img: '/shop/laptop.jpg'
+    img: '/shop/laptop.png'
   },
   {
     id: 7,

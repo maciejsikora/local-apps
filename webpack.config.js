@@ -4,7 +4,8 @@ module.exports = {
   entry: { 
     bugs: './src/bugs.js',
     movies: './src/movies.js',
-    food: './src/food.js'
+    food: './src/food.js',
+    shop: './src/shop.js'
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
